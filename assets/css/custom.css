@@ -1,0 +1,66 @@
+.judulbuku {
+    color: #575757;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.gambarbuku {
+    width: 100%;
+    height: 250px;
+    background-position: center center;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.penulisbuku {
+    color: #838383;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.hargaasli {
+    color: #838383;
+    font-size: 12px;
+    font-style: italic;
+    text-decoration: line-through;
+    margin-bottom: 6px;
+}
+
+.harga {
+    color: #2BB48A;
+    font-size: 14px;
+    font-weight: 800;
+    margin-top: 0px;
+}
+
+.banyakterjual {
+    color: #838383;
+    font-size: 10px;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.discount {
+    position: absolute;
+    z-index: 2;
+    background-color: #854949;
+    color: white;
+    font-size: 13px;
+    border-radius: 18px 0px 18px 0px;
+    padding: 5px 10px 5px 10px;
+    font-weight: 600;
+}
+
+.showmore {
+    color: #2BB48A;
+    text-decoration: none;
+}
+
+.category {
+    font-size: 24px;
+    color: #575757;
+    font-weight: 700;
+}
